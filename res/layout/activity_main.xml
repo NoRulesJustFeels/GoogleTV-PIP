@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="2dip"
+        android:shrinkColumns="*"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:layout_weight="1"
+            android:padding="2dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10sp"
+                android:text="@string/title_text"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:padding="2dip" >
+
+            <VideoView
+                android:id="@+id/pipview"
+                android:layout_width="200dip"
+                android:layout_height="113dip"
+                android:background="@android:color/transparent" />
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>
