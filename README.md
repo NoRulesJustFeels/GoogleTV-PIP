@@ -3,7 +3,7 @@ GoogleTV-PIP
 
 <p>This Google TV app demonstrates how to do embed live TV PIP. </p>
 
-<p>During Google I/O 2012, one of the Google TV engineers <a href="https://www.youtube.com/watch?feature=player_embedded&v=bNbKpUqkOso">explained how to do PIP video</a> (jumpt to 56:30). 
+<p>During Google I/O 2012, one of the Google TV engineers <a href="http://youtu.be/bNbKpUqkOso?t=56m30s">explained how to do PIP video</a> (jump to 56:30). 
 You can use com.google.tv.mediadevices.MediaDeviceView to access the live TV video. 
 Doing a Google search provided another bit of information: you need the com.google.tv.mediadevices.permission.MEDIA_DEVICES_CLIENT permission for this to work.</p>
 
