@@ -20,5 +20,6 @@ Doing a Google search provided another bit of information: you need the com.goog
 <ul>
 <li><a href="https://developers.google.com/tv/">Developing for Google TV</a></li>
 <li><a href="https://developers.google.com/tv/android/docs/gtv_media">Google TV Media Playback</a></li>
+<li>The ultimate Google TV remote: <a href="https://play.google.com/store/apps/details?id=com.entertailion.android.remote">Able Remote</a></li>
 </ul>
 </p>
